@@ -1,5 +1,9 @@
-Hello! I am a student of the Columbia College class of 2029 studying computer science and data science.
+# Hello! 👋
+I am a student of the Columbia College class of 2029 studying computer science and data science.<br>
 I play the violin and like to code. I also enjoy playing soccer and golf.
+
+My homepage:
+https://seohyun-hwang.github.io/homepage/
 
 <!--
 **seohyun-hwang/seohyun-hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
