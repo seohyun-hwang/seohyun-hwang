@@ -2,7 +2,7 @@
 I am a student of the Columbia College class of 2029 studying computer science and data science.<br>
 I play the violin and like to code. I also enjoy playing soccer and golf.
 
-My homepage (incomplete; still in development):<br>
+My homepage:<br>
 https://seohyun-hwang.github.io/homepage
 
 
