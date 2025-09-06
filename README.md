@@ -1,5 +1,5 @@
 # Hello! 👋
-I am a student of the Columbia College class of 2029 studying computer science and data science.<br>
+I am a student of the Columbia College class of 2029 studying computer science, data science, and mathematics/statistics.<br>
 I play the violin and like to code. I also enjoy playing soccer and golf.
 
 My homepage:<br>
